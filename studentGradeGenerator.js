@@ -18,5 +18,3 @@ if(marks<0 || marks>100){
             console.log("grade:E");
         }
     }
-    const gradeMarks = grade
-    console.log(`Grade: ${grade}`)
