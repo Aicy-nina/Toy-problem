@@ -40,4 +40,4 @@
 ### License
 
 \*Licenced under the MIT License
-Copyright (c) 2024 \*\*Nina Muhika-👋 
+Copyright (c) 2024 \*\*Nina Muhika-
